@@ -50,14 +50,14 @@
           "type": "color",
           "title": "Background",
           "groupName": "colors",
-          "default": "#ffffff"
+          "default": "#ffe6f2"
         },
         {
           "var": "primaryColor",
           "type": "color",
           "title": "Primary",
           "groupName": "colors",
-          "default": "#9fe870"
+          "default": "#ff69b4"
         },
         {
           "type": "colors",
@@ -74,15 +74,15 @@
             },
             {
               "var": "infoColor",
-              "default": "#320707"
+              "default": "#0066cc"
             },
             {
               "var": "warningColor",
-              "default": "#a0e2e1"
+              "default": "#ffcc00"
             },
             {
               "var": "dangerColor",
-              "default": "#ffea64"
+              "default": "#ff4444"
             }
           ]
         },
